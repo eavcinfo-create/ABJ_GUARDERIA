@@ -15,6 +15,7 @@ public class ABJ_GUARDERIA {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("HOLA MUNDIAL");
     }
     
 }
